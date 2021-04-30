@@ -97,8 +97,8 @@ Test
 
 网络图片链接
 
-![]("https://img1.baidu.com/it/u=2824642304,3028733187&fm=26&fmt=auto&gp=0.jpg")
+![](https://gss0.baidu.com/70cFfyinKgQFm2e88IuM_a/baike/pic/item/77094b36acaf2eddb8f23230831001e9380193e3.jpg)
 
 跳转文档test
 
-[下一个文档](./WH.md)
+[下一个文档](./next.md)
